@@ -1,4 +1,4 @@
-et player = {
+let player = {
 
     name: "USS Schwarzenneger",
 
